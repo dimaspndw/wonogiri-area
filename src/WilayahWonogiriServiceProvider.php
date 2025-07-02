@@ -1,6 +1,6 @@
 <?php
 
-namespace DimasPndw\WonogririArea;
+namespace DimasPndw\WonogiriArea;
 
 use Illuminate\Support\ServiceProvider;
 
