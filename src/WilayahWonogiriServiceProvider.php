@@ -1,7 +1,7 @@
 <?php
 
 namespace DimasPndw\WonogiriArea;
-
+// test
 use Illuminate\Support\ServiceProvider;
 
 class WilayahWonogiriServiceProvider extends ServiceProvider
