@@ -8,9 +8,10 @@ Tambahkan package ini melalui Composer:
 
 ```bash
 composer require dimaspndw/wilayah-wonogiri
-
+``` 
 Jalankan di terminal :
 
 ```bash
 php artisan migrate
 php artisan db:seed --class="DimasPndw\WonogiriArea\Database\Seeders\WilayahSeeder"
+```
