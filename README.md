@@ -12,6 +12,6 @@ composer require dimaspndw/wilayah-wonogiri
 Jalankan di terminal :
 
 ```bash
-php artisan migrate
+php artisan migrate --path=vendor/dimaspndw/wonogiri-area/src/database/migrations
 php artisan db:seed --class="DimasPndw\WonogiriArea\Database\Seeders\WilayahSeeder"
 ```
