@@ -7,7 +7,7 @@ Package Laravel yang menyediakan data Kecamatan dan Desa di Kabupaten Wonogiri, 
 Tambahkan package ini melalui Composer:
 
 ```bash
-composer require dimaspndw/wilayah-wonogiri
+composer require dimaspndw/wonogiri-area
 ``` 
 Jalankan di terminal :
 
