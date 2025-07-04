@@ -15,3 +15,5 @@ Jalankan di terminal :
 php artisan migrate --path=vendor/dimaspndw/wonogiri-area/src/database/migrations
 php artisan db:seed --class="DimasPndw\WonogiriArea\Database\Seeders\WilayahSeeder"
 ```
+Detail : 
+https://packagist.org/packages/dimaspndw/wonogiri-area 
